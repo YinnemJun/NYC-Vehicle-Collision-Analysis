@@ -1,3 +1,5 @@
-# Data-Science-HW
+# NYC-Vehicle-Collision-Analysis
 
-纽约市车祸数据集的数据分析
+This project performs a comprehensive **Exploratory Data Analysis (EDA)** and **Machine Learning based hotspot detection** on the New York City Motor Vehicle Collisions dataset (containing over 2 million records).
+
+The goal is to identify critical safety trends, visualize accident hotspots, and uncover correlations between environmental factors and collision severity.
